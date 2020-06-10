@@ -1,0 +1,190 @@
+"interaction_type","consumer_species","consumer_metab","consumer_mass","resource_species","resource_metab","resource_mass"
+"herbivorous","Bacteria",false,1.0e-8,"Phytoplankton",false,0.0001
+"predacious","Benthic carnivores",false,10,"Benthic filter feeders",false,10
+"herbivorous","Microzooplankton",false,0.0001,"Phytoplankton",false,0.0001
+"predacious","Microzooplankton",false,0.0001,"Microzooplankton",false,0.0001
+"herbivorous","Mesozooplankton",false,0.01,"Phytoplankton",false,0.0001
+"predacious","Mesozooplankton",false,0.01,"Microzooplankton",false,0.0001
+"herbivorous","Macrozooplankton",false,1,"Phytoplankton",false,0.0001
+"predacious","Macrozooplankton",false,1,"Mesozooplankton",false,0.01
+"predacious","Macrozooplankton",false,1,"Macrozooplankton",false,1
+"herbivorous","Gelatinous zooplankton",false,100,"Phytoplankton",false,0.0001
+"predacious","Gelatinous zooplankton",false,100,"Microzooplankton",false,0.0001
+"predacious","Gelatinous zooplankton",false,100,"Macrozooplankton",false,1
+"herbivorous","Anchovy",true,11.5,"Phytoplankton",false,0.0001
+"predacious","Anchovy",true,11.5,"Microzooplankton",false,0.0001
+"predacious","Anchovy",true,11.5,"Macrozooplankton",false,1
+"herbivorous","Pilchard",true,280,"Phytoplankton",false,0.0001
+"predacious","Pilchard",true,280,"Macrozooplankton",false,1
+"predacious","Round herring",true,215.2,"Macrozooplankton",false,1
+"predacious","Lightfish",true,4.8,"Macrozooplankton",false,1
+"predacious","Lanternfish",true,6.9,"Macrozooplankton",false,1
+"herbivorous","Goby",true,18.6,"Phytoplankton",false,0.0001
+"predacious","Goby",true,18.6,"Macrozooplankton",false,1
+"predacious","Other pelagics",true,2554.85,"Benthic carnvores",false,10
+"predacious","Other pelagics",true,2554.85,"Macrozooplankton",false,1
+"predacious","Other pelagics",true,2554.85,"Gelatinous zooplankton",false,100
+"predacious","Horse mackerel",true,5104.9,"Lanternfish",true,6.9
+"predacious","Horse mackerel",true,5104.9,"Benthic carnivores",false,10
+"predacious","Horse mackerel",true,5104.9,"Macrozooplankton",false,1
+"predacious","Chub mackerel",true,3259.5,"Lanternfish",true,6.9
+"predacious","Chub mackerel",true,3259.5,"Benthic carnivores",false,10
+"predacious","Chub mackerel",true,3259.5,"Macrozooplankton",false,1
+"predacious","Chub mackerel",true,3259.5,"Round herring",true,215.2
+"predacious","Other groundfish",true,13127,"Round herring",true,215.2
+"predacious","Other groundfish",true,13127,"Lightfish",true,4.8
+"predacious","Other groundfish",true,13127,"Lanternfish",true,6.9
+"predacious","Other groundfish",true,13127,"Goby",true,18.6
+"predacious","Other groundfish",true,13127,"Other pelagics",true,2554.85
+"predacious","Other groundfish",true,13127,"Other groundfish",true,13127
+"predacious","Other groundfish",true,13127,"Hakes",true,22994.5
+"predacious","Other groundfish",true,13127,"Squid",false,40
+"predacious","Other groundfish",true,13127,"Benthic carnivores",false,10
+"predacious","Other groundfish",true,13127,"Mesozooplankton",false,0.01
+"predacious","Other groundfish",true,13127,"Macrozooplankton",false,1
+"predacious","Other groundfish",true,13127,"Anchovy",true,11.5
+"predacious","Hakes",true,22994.5,"Pilchard",true,280
+"predacious","Hakes",true,22994.5,"Round herring",true,215.2
+"predacious","Hakes",true,22994.5,"Lightfish",true,4.8
+"predacious","Hakes",true,22994.5,"Lanternfish",true,6.9
+"predacious","Hakes",true,22994.5,"Goby",true,18.6
+"predacious","Hakes",true,22994.5,"Horse mackerel",true,5104.9
+"predacious","Hakes",true,22994.5,"Chub mackerel",true,3259.5
+"predacious","Hakes",true,22994.5,"Other groundfish",true,13127
+"predacious","Hakes",true,22994.5,"Hakes",true,22994.5
+"predacious","Hakes",true,22994.5,"Squid",false,40
+"predacious","Hakes",true,22994.5,"Mesozooplankton",false,0.01
+"predacious","Hakes",true,22994.5,"Macrozooplankton",false,1
+"predacious","Hakes",true,22994.5,"Anchovy",true,11.5
+"predacious","Squid",false,40,"Pilchard",true,280
+"predacious","Squid",false,40,"Round herring",true,215.2
+"predacious","Squid",false,40,"Lightfish",true,4.8
+"predacious","Squid",false,40,"Goby",true,18.6
+"predacious","Squid",false,40,"Horse mackerel",true,5104.9
+"predacious","Squid",false,40,"Other groundfish",true,13127
+"predacious","Squid",false,40,"Hakes",true,22994.5
+"predacious","Squid",false,40,"Squid",false,40
+"predacious","Squid",false,40,"Benthic carnivores",false,10
+"predacious","Squid",false,40,"Macrozooplankton",false,1
+"predacious","Squid",false,40,"Anchovy",true,11.5
+"predacious","Tunas",true,909000,"Pilchard",true,280
+"predacious","Tunas",true,909000,"Round herring",true,215.2
+"predacious","Tunas",true,909000,"Lightfish",true,4.8
+"predacious","Tunas",true,909000,"Lanternfish",true,6.9
+"predacious","Tunas",true,909000,"Goby",true,18.6
+"predacious","Tunas",true,909000,"Other pelagics",true,2554.85
+"predacious","Tunas",true,909000,"Horse mackerel",true,5104.9
+"predacious","Tunas",true,909000,"Chub mackerel",true,3259.5
+"predacious","Tunas",true,909000,"Hakes",true,22994.5
+"predacious","Tunas",true,909000,"Squid",false,40
+"predacious","Tunas",true,909000,"Benthic carnivores",false,10
+"predacious","Tunas",true,909000,"Anchovy",true,11.5
+"predacious","Snoek",true,13012.1,"Pilchard",true,280
+"predacious","Snoek",true,13012.1,"Round herring",true,215.2
+"predacious","Snoek",true,13012.1,"Lightfish",true,4.8
+"predacious","Snoek",true,13012.1,"Lanternfish",true,6.9
+"predacious","Snoek",true,13012.1,"Goby",true,18.6
+"predacious","Snoek",true,13012.1,"Horse mackerel",true,5104.9
+"predacious","Snoek",true,13012.1,"Hakes",true,22994.5
+"predacious","Snoek",true,13012.1,"Squid",false,40
+"predacious","Snoek",true,13012.1,"Benthic carnivores",false,10
+"predacious","Snoek",true,13012.1,"Macrozooplankton",false,1
+"predacious","Snoek",true,13012.1,"Anchovy",true,11.5
+"predacious","Kob",true,68000,"Pilchard",true,280
+"predacious","Kob",true,68000,"Goby",true,18.6
+"predacious","Kob",true,68000,"Horse mackerel",true,5104.9
+"predacious","Kob",true,68000,"Chub mackerel",true,3259.5
+"predacious","Kob",true,68000,"Other groundfish",true,13127
+"predacious","Kob",true,68000,"Hakes",true,22994.5
+"predacious","Kob",true,68000,"Squid",false,40
+"predacious","Kob",true,68000,"Kob",true,68000
+"predacious","Kob",true,68000,"Benthic carnivores",false,10
+"predacious","Kob",true,68000,"Macrozooplankton",false,1
+"predacious","Kob",true,68000,"Anchovy",true,11.5
+"predacious","Yellowtail",true,82040.3,"Pilchard",true,280
+"predacious","Yellowtail",true,82040.3,"Round herring",true,215.2
+"predacious","Yellowtail",true,82040.3,"Goby",true,18.6
+"predacious","Yellowtail",true,82040.3,"Other pelagics",true,2554.85
+"predacious","Yellowtail",true,82040.3,"Horse mackerel",true,5104.9
+"predacious","Yellowtail",true,82040.3,"Chub mackerel",true,3259.5
+"predacious","Yellowtail",true,82040.3,"Other groundfish",true,13127
+"predacious","Yellowtail",true,82040.3,"Squid",false,40
+"predacious","Yellowtail",true,82040.3,"Macrozooplankton",false,1
+"predacious","Yellowtail",true,82040.3,"Anchovy",true,11.5
+"predacious","Geelbek",true,26127.38,"Pilchard",true,280
+"predacious","Geelbek",true,26127.38,"Round herring",true,215.2
+"predacious","Geelbek",true,26127.38,"Goby",true,18.6
+"predacious","Geelbek",true,26127.38,"Other pelagics",true,2554.85
+"predacious","Geelbek",true,26127.38,"Horse mackerel",true,5104.9
+"predacious","Geelbek",true,26127.38,"Other groundfish",true,13127
+"predacious","Geelbek",true,26127.38,"Hakes",true,22994.5
+"predacious","Geelbek",true,26127.38,"Squid",false,40
+"predacious","Geelbek",true,26127.38,"Benthic carnivores",false,10
+"predacious","Geelbek",true,26127.38,"Anchovy",true,11.5
+"predacious","Whales & Dolphins",true,82000,"Pilchard",true,280
+"predacious","Whales & Dolphins",true,82000,"Round herring",true,215.2
+"predacious","Whales & Dolphins",true,82000,"Lanternfish",true,6.9
+"predacious","Whales & Dolphins",true,82000,"Goby",true,18.6
+"predacious","Whales & Dolphins",true,82000,"Other pelagics",true,2554.85
+"predacious","Whales & Dolphins",true,82000,"Horse mackerel",true,5104.9
+"predacious","Whales & Dolphins",true,82000,"Hakes",true,22994.5
+"predacious","Whales & Dolphins",true,82000,"Squid",false,40
+"predacious","Whales & Dolphins",true,82000,"Macrozooplankton",false,1
+"predacious","Whales & Dolphins",true,82000,"Anchovy",true,11.5
+"predacious","Birds",true,2287,"Pilchard",true,280
+"predacious","Birds",true,2287,"Round herring",true,215.2
+"predacious","Birds",true,2287,"Lightfish",true,4.8
+"predacious","Birds",true,2287,"Lanternfish",true,6.9
+"predacious","Birds",true,2287,"Goby",true,18.6
+"predacious","Birds",true,2287,"Other pelagics",true,2554.85
+"predacious","Birds",true,2287,"Horse mackerel",true,5104.9
+"predacious","Birds",true,2287,"Chub mackerel",true,3259.5
+"predacious","Birds",true,2287,"Other groundfish",true,13127
+"predacious","Birds",true,2287,"Hakes",true,22994.5
+"predacious","Birds",true,2287,"Squid",false,40
+"predacious","Birds",true,2287,"Snoek",true,13012.1
+"predacious","Birds",true,2287,"Birds",true,2287
+"predacious","Birds",true,2287,"Seals",true,136000
+"predacious","Birds",true,2287,"Benthic carnivores",false,10
+"predacious","Birds",true,2287,"Mesozooplankton",false,0.01
+"predacious","Birds",true,2287,"Macrozooplankton",false,1
+"predacious","Birds",true,2287,"Anchovy",true,11.5
+"predacious","Seals",true,136000,"Pilchard",true,280
+"predacious","Seals",true,136000,"Round herring",true,215.2
+"predacious","Seals",true,136000,"Lightfish",true,4.8
+"predacious","Seals",true,136000,"Lanternfish",true,6.9
+"predacious","Seals",true,136000,"Goby",true,18.6
+"predacious","Seals",true,136000,"Other pelagics",true,2554.85
+"predacious","Seals",true,136000,"Horse mackerel",true,5104.9
+"predacious","Seals",true,136000,"Chub mackerel",true,3259.5
+"predacious","Seals",true,136000,"Other groundfish",true,13127
+"predacious","Seals",true,136000,"Hakes",true,22994.5
+"predacious","Seals",true,136000,"Squid",false,40
+"predacious","Seals",true,136000,"Snoek",true,13012.1
+"predacious","Seals",true,136000,"Birds",true,2287
+"predacious","Seals",true,136000,"Sharks",true,1500
+"predacious","Seals",true,136000,"Benthic carnivores",false,10
+"predacious","Seals",true,136000,"Anchovy",true,11.5
+"predacious","Sharks",true,1500,"Pilchard",true,280
+"predacious","Sharks",true,1500,"Round herring",true,215.2
+"predacious","Sharks",true,1500,"Lightfish",true,4.8
+"predacious","Sharks",true,1500,"Goby",true,18.6
+"predacious","Sharks",true,1500,"Other pelagics",true,2554.85
+"predacious","Sharks",true,1500,"Horse mackerel",true,5104.9
+"predacious","Sharks",true,1500,"Chub mackerel",true,3259.5
+"predacious","Sharks",true,1500,"Other groundfish",true,13127
+"predacious","Sharks",true,1500,"Hakes",true,22994.5
+"predacious","Sharks",true,1500,"Squid",false,40
+"predacious","Sharks",true,1500,"Tunas",true,909000
+"predacious","Sharks",true,1500,"Snoek",true,13012.1
+"predacious","Sharks",true,1500,"Kob",true,68000
+"predacious","Sharks",true,1500,"Yellowtail",true,82040.3
+"predacious","Sharks",true,1500,"Geelbek",true,26127.38
+"predacious","Sharks",true,1500,"Whales & Dolphins",true,82000
+"predacious","Sharks",true,1500,"Birds",true,2287
+"predacious","Sharks",true,1500,"Seals",true,136000
+"predacious","Sharks",true,1500,"Sharks",true,1500
+"predacious","Sharks",true,1500,"Benthic carnivores",false,10
+"predacious","Sharks",true,1500,"Mesozooplankton",false,0.01
+"predacious","Sharks",true,1500,"Macrozooplankton",false,1
+"predacious","Sharks",true,1500,"Anchovy",true,11.5
