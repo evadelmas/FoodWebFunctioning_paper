@@ -1,6 +1,8 @@
-# Reproducing "Food web structure alters ecological communities top-heaviness with little effect on the biodiversity-functioning relationship"
+# Code for the paper: "Food web structure alters ecological communities top-heaviness with little effect on the biodiversity-functioning relationship"
 
-This project contains the scripts needed to reproduce the experiments and analyses for the following paper: "Food web structure alters ecological communities top-heaviness with little effect on the biodiversity-functioning relationship" by Eva Delmas, Daniel B. Stouffer and Timothée Poisot.
+This project contains the scripts used for the experiments and analyses for the following paper: "Food web structure alters ecological communities top-heaviness with little effect on the biodiversity-functioning relationship" by Eva Delmas, Daniel B. Stouffer and Timothée Poisot.
+
+Corresponding author: Eva Delmas - eva.delmas@umontreal.ca
 
 ## Requirement
 
@@ -30,4 +32,4 @@ Pkg.instantiate() #install the packages
 
 ### Data
 
-This contains the body mass data and the simulations outputs.
+This contains the body mass data (`raw_data/bodysizes_2008.txt`) used in the Allometric Diet Breadth Model to generate realistic food webs (`adbm_generated_foodwebs.jld2`), and the simulations outputs (`results.csv`).
